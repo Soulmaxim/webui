@@ -20,6 +20,12 @@
   </properties>
 
   <dependencies>
+    <!-- https://mvnrepository.com/artifact/ru.yandex.qatools.htmlelements/htmlelements-matchers -->
+    <dependency>
+      <groupId>ru.yandex.qatools.htmlelements</groupId>
+      <artifactId>htmlelements-matchers</artifactId>
+      <version>1.20.0</version>
+    </dependency>
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
